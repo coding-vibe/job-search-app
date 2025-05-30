@@ -38,7 +38,7 @@ Source code for the API is located in `backend` folder.
 2. Install dependencies - `npm i`.
 3. Start the project using `npm start`
 
-View [**Demo**](http://localhost:4000)
+View [**Demo**](https://job-search-api-4gyq.onrender.com)
 
 ### Front-end
 
@@ -47,4 +47,4 @@ View [**Demo**](http://localhost:4000)
 3. Prepare production build using `npm run build`
 4. Start application - `npm start`.
 
-View [**Demo**](http://localhost:3000)
+View [**Demo**](https://job-search-app-ruddy-six.vercel.app/jobs)

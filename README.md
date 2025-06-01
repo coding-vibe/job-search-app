@@ -40,6 +40,8 @@ Source code for the API is located in `backend` folder.
 
 View [**Demo**](https://job-search-api-4gyq.onrender.com)
 
+**Important**: the back-end is deployed on free plan of Render. Render shuts down the server instance due to long periods of inactivity and relaunches the app on a new request. According to Render docs restart of the server can take up to 50 sec. 
+
 ### Front-end
 
 1. Create `.env` using `env-template`.

@@ -1,7 +1,6 @@
 # Job search
 
-Job Search Web Application
-A modern, user-friendly web application that helps users search for jobs tailored to their profile. Built with a focus on responsive design, usability, and seamless interaction.
+Job Search Web Application - a modern, user-friendly web application that helps users search for jobs tailored to their profile. Built with a focus on responsive design, usability, and seamless interaction.
 
 ## Features
 
